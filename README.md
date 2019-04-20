@@ -24,6 +24,9 @@ Login Page:
 <br/>
 -.contain(#1) // Control the whole login page layout
 <br/>
---.info(#2) // display info on desktop view (display none on mobile view)
+  --.info(#2) // display info on desktop view (display none on mobile view)
 <br/>
---.login(#2)
+  --.login(#2)
+    ---.logo(#3)
+    ---.form(#3)
+      ----.
