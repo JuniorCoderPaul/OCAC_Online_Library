@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JuniorCoderPaul/OCAC_Online_Library/issues"
   },
-  "homepage": "https://github.com/JuniorCoderPaul/OCAC_Online_Library#readme"
+  "homepage": "https://github.com/JuniorCoderPaul/OCAC_Online_Library#readme",
+  "devDependencies": {
+    "gulp": "^4.0.1"
+  }
 }
